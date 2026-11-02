@@ -70,5 +70,5 @@ powershell -ExecutionPolicy Bypass -File .\scripts\patch-pcl-29901.ps1 -Path "D:
 
 ## 许可
 
-本仓库的脚本与工具代码使用 MIT 许可。
+本仓库的脚本与工具代码使用 MIT 许可（见 [LICENSE](LICENSE)）。
 PCL 本体不在本仓库内，其版权与许可归原作者所有。
